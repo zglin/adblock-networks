@@ -11,3 +11,6 @@
 |http://static.ak.facebook.com/connect/
 |https://analytics.twitter.com/
 ||dmarge.com^
+||connect.facebook.net^
+||service.maxymiser.net^
+||p.rfihub.com^
