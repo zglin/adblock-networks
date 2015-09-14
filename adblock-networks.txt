@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Version 1a
+! Title: adblock-networks
+! removes content marketing advertising
+! Expires: 1 days (update frequency)
+! 
+
+
+||taboola.com^
+||outbrain.com^
+|http://static.ak.facebook.com/connect/
+|https://analytics.twitter.com/
+||dmarge.com^
