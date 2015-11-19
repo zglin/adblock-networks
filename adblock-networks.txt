@@ -5,6 +5,21 @@
 ! Expires: 1 days (update frequency)
 ! 
 
+finalternatives.com###wisepop-15101
+finalternatives.com##.wisepop-popin
+ft.com###barrier-dialogue
+ft.com##.barrier-dialogue
+ft.com##.barrier-veil
+ftalphaville.ft.com###assanka_mockingbird_overlay
+gia.edu###oo_invitation_overlay
+gia.edu###oo_invitation_prompt
+gia.edu##.no_loading
+investopedia.com###abkoverlay
+investopedia.com##.outer
+quora.com##.dialog_wrapper
+quora.com##.modal_signup_background.new_web_signup_wall_design
+||economist.com/ec-wallpage-js/init/emptyframe?show_close=0&header=Subscribe%20now%20for%20full%20access%20or%20register%20to%20continue%20reading.&subheader=You%20have%20reached%20your%20article%20limit&show_login=1&sub_link=https%3A%2F%2Fsubscriptions.economist.com%2FGLB%2FRPWDB
+||rma-api.gravity.com/v
 
 ||taboola.com^
 ||outbrain.com^
