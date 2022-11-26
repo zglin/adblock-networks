@@ -1,10 +1,37 @@
-[Adblock Plus 2.0]
-! Version 1a
 ! Title: adblock-networks
-! removes content marketing advertising
-! Expires: 1 days (update frequency)
-! 
+! Description: Removes crappy search results and bad python
+! Expires: 1 days
+! Homepage: https://github.com/zglin/adblock-networks/
 
+google.*##div#search a[href*="realpython.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codegrepper.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codegrepper.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codegrepr.com"]:nth-ancestor(2)
+google.*##div#search a[href*="pretagteam.com"]:nth-ancestor(2)
+google.*##div#search a[href*="giters.com"]:nth-ancestor(2)
+google.*##div#search a[href*="githubmemory."]:nth-ancestor(2)
+google.*##div#search a[href*="bountysource.com"]:nth-ancestor(2)
+google.*##div#search a[href*="bestofreactjs.com"]:nth-ancestor(2)
+google.*##div#search a[href*="issueexplorer.com"]:nth-ancestor(2)
+google.*##div#search a[href*="coderedirect.com"]:nth-ancestor(2)
+google.*##div#search a[href*="fantashit.com"]:nth-ancestor(2)
+google.*##div#search a[href*="techinplanet.com"]:nth-ancestor(2)
+google.*##div#search a[href*="py4u.net"]:nth-ancestor(2)
+google.*##div#search a[href*="alltodev.com"]:nth-ancestor(2)
+google.*##div#search a[href*="javascript.tutorialink.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codingwithfun.com"]:nth-ancestor(2)
+google.*##div#search a[href*="lifesaver.codes"]:nth-ancestor(2)
+google.*##div#search a[href*="localcoder.org"]:nth-ancestor(2)
+google.*##div#search a[href*="anycodings.com"]:nth-ancestor(2)
+google.*##div#search a[href*="solveforum.com"]:nth-ancestor(2)
+google.*##div#search a[href*="codehunter.cc"]:nth-ancestor(2)
+google.*##div#search a[href*="querythreads.com"]:nth-ancestor(2)
+google.*##div#search a[href*="issuecloser.com"]:nth-ancestor(2)
+google.*##div#search a[href*="errorsfixing.com"]:nth-ancestor(2)
+google.*##div#search a[href*="xspdf.com"]:nth-ancestor(2)
+google.*##div#search a[href*="exchangetuts.com"]:nth-ancestor(2)
+google.*##div#search a[href*="appsloveworld.com"]:nth-ancestor(2)
+google.*##div#search a[href*="issueantenna.com"]:nth-ancestor(2)
 finalternatives.com###wisepop-15101
 finalternatives.com##.wisepop-popin
 ft.com###barrier-dialogue
